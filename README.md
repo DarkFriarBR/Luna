@@ -1,3 +1,5 @@
+![alt text](https://github.com/DarkFriarBR/Luna/blob/main/Luna.jpg)
+
 # Luna A.I. System - Open Source GNU/Linux
 ```
 A Luna ainda esta em desenvolvimento a cada dia!
