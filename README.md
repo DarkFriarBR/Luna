@@ -49,6 +49,8 @@ $ Defina Inteligencia Artificial
 $ Quem foi Pero Vaz de Caminha
 $ O Que é Ribosomos
 $ Defina *
+$ Quem Foi *
+$ O Que é *
 ```
 
 # Install 
