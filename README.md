@@ -48,6 +48,7 @@ $ Jornal *
 $ Defina Inteligencia Artificial
 $ Quem foi Pero Vaz de Caminha
 $ O Que é Ribosomos
+$ Defina *
 ```
 
 # Install 
