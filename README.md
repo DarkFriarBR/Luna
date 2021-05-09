@@ -21,10 +21,30 @@ $ Previsão do tempo para Hoje?
 $ Verificar Rede
 $ Hora
 $ Terremotos
+$ Abrir Desktop
+$ Abrir Documentos
+$ Abrir Música
+$ Abrir Imagens
+$ Abrir Calculadora
+$ Abrir Brownser
+$ Abrir Firefox
+$ Abrir Chromium
+$ Abrir VLC
+$ Abrir Facebook
+$ Abrir Google
+$ Abrir Youtube
+$ Pesquisar por * no Google
+$ Pesquisar no Google *
+$ Pesquisar por * no YouTube
+$ Pesquisar no YouTube *
+$ Google Maps *
+$ Pesquisar por * no Google Maps
+$ Pesquisar no Google Maps *
+$ Tocar Música
 $ Jornal Covid-19
 $ Jornal Brasil
 $ Jornal Koreia do Norte
-$ Jornal
+$ Jornal *
 $ Defina Inteligencia Artificial
 $ Quem foi Pero Vaz de Caminha
 $ O Que é Ribosomos
