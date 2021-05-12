@@ -5,8 +5,8 @@
 A Luna ainda esta em desenvolvimento a cada dia!
 Aprendendo sempre mais ! :)
 ```
-[![Everything Is AWESOME](https://github.com/DarkFriarBR/Luna/blob/main/Luna2.jpg)](https://youtu.be/xc-CY7qVXzY?t=35s "Everything Is AWESOME")
-[![Everything Is AWESOME](https://github.com/DarkFriarBR/Luna/blob/main/Luna2.jpg)](https://youtu.be/vjw-YHqI_tE?t=35s "Everything Is AWESOME")
+(https://youtu.be/xc-CY7qVXzY?t=35s "Everything Is AWESOME")
+[![Everything Is AWESOME](https://youtu.be/vjw-YHqI_tE?t=35s "Everything Is AWESOME")
 
 # Requirements
 ```
