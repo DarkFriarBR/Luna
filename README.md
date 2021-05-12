@@ -5,8 +5,10 @@
 A Luna ainda esta em desenvolvimento a cada dia!
 Aprendendo sempre mais ! :)
 ```
-(https://youtu.be/xc-CY7qVXzY?t=35s "Everything Is AWESOME")
-[![Everything Is AWESOME](https://youtu.be/vjw-YHqI_tE?t=35s "Everything Is AWESOME")
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/xc-CY7qVXzY/0.jpg)](https://www.youtube.com/watch?v=xc-CY7qVXzY "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/vjw-YHqI_tE/0.jpg)](https://www.youtube.com/watch?v=vjw-YHqI_tE "Everything Is AWESOME")
+
 
 # Requirements
 ```
