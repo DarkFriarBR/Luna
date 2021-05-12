@@ -6,6 +6,9 @@ A Luna ainda esta em desenvolvimento a cada dia!
 Aprendendo sempre mais ! :)
 ```
 
+[![IMAGE ALT TEXT](https://github.com/DarkFriarBR/Luna/blob/main/Luna2.jpg)](https://www.youtube.com/watch?v=xc-CY7qVXzY)
+[![IMAGE ALT TEXT](https://github.com/DarkFriarBR/Luna/blob/main/Luna2.jpg)](https://www.youtube.com/watch?v=vjw-YHqI_tE)
+
 # Requirements
 ```
 PC - Core 2 Duo
