@@ -6,8 +6,8 @@ A Luna ainda esta em desenvolvimento a cada dia!
 Aprendendo sempre mais ! :)
 ```
 
-[![IMAGE ALT TEXT](https://github.com/DarkFriarBR/Luna/blob/main/Luna2.jpg)](https://www.youtube.com/watch?v=xc-CY7qVXzY)
-[![IMAGE ALT TEXT](https://github.com/DarkFriarBR/Luna/blob/main/Luna2.jpg)](https://www.youtube.com/watch?v=vjw-YHqI_tE)
+[![IMAGE ALT TEXT](https://github.com/DarkFriarBR/Luna/blob/main/Luna2.jpg)](https://www.youtube.com/watch?v=xc-CY7qVXzY?v=YOUTUBE_VIDEO_ID_HERE "Teste 01")
+[![IMAGE ALT TEXT](https://github.com/DarkFriarBR/Luna/blob/main/Luna2.jpg)](https://www.youtube.com/watch?v=vjw-YHqI_tE?v=YOUTUBE_VIDEO_ID_HERE "Teste 01")
 
 # Requirements
 ```
